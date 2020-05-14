@@ -10,7 +10,7 @@
 		</p>
 	</li>
 	<br>
-	<li style="border:1px solid red;">
+	<li>
 		<p> <span> Phone</span> (91) <?=$details['phone'];?> </p>
 	</li>
 	
